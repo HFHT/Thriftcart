@@ -1,0 +1,18 @@
+.calendar-unavailable-label {
+  padding: 2px !important;
+  background-color: #e7b3c4 !important;
+  font-size: 0 !important;
+}
+.calendar-unavailable-label input {
+  visibility: hidden !important;
+}
+.calendar-available-label {
+  padding: 2px !important;
+  background-color: #def1de !important;
+}
+.btn-itemadder {
+  width:18em !important
+}
+#itemwarningzone input {
+  width: 3em !important;
+}
