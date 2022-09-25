@@ -16,3 +16,8 @@
 #itemwarningzone input {
   width: 3em !important;
 }
+#confirmationinner {
+  white-space: pre;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
