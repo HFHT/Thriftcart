@@ -17,7 +17,13 @@
   width: 3em !important;
 }
 #confirmationinner {
-  white-space: pre;
-  text-overflow: ellipsis;
-  overflow: hidden;
+  white-space: pre !important;
+  text-overflow: ellipsis !important;
+  overflow: hidden !important;
+}
+.form-group {
+  margin-bottom: 11px !important;
+)
+.control-label label {
+  margin-bottom: unset !important;
 }
