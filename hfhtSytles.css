@@ -7,8 +7,20 @@
   visibility: hidden !important;
 }
 .calendar-available-label {
-  padding: 2px !important;
+  padding: 1px !important;
   background-color: #def1de !important;
+  font-size: 0 !important;
+  height: 20px !important;
+  border: 1px solid mediumseagreen !important;
+  border-radius: 4px !important;
+}
+.calendar-available-label input {
+  opacity: 0  !important;
+  width: 0  !important;
+}
+.calendar-selected-label {
+  background: none !important;
+  background-color: seagreen !important;
 }
 .btn-itemadder {
   width:11.5em !important
@@ -18,12 +30,11 @@
 }
 #confirmationinner {
   white-space: pre !important;
-  text-overflow: ellipsis !important;
   overflow: hidden !important;
 }
 .form-group {
   margin-bottom: 11px !important;
-)
+}
 .control-label label {
   margin-bottom: unset !important;
 }
