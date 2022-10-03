@@ -1,0 +1,15 @@
+#searchcontactsinner {
+   min-width: 179px !important; 
+}
+.dashboard-header .panel-body .btn-info {
+    width: 11.5em !important;
+    margin: 3px !important;
+}
+.dashboard-header .panel-body .btn-success {
+    width: 11.5em !important;
+    margin: 3px !important;
+}
+.dashboard-header .panel-body .btn-danger {
+    width: 11.5em !important;
+    margin: 3px !important;
+}
